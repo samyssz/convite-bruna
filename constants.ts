@@ -22,10 +22,10 @@ export const INVITATION_DATA = {
 
   // Música de fundo (URL de um arquivo mp3)
   // Deixe vazio ("") se não quiser música
-  musicUrl: "https://dl.dropboxusercontent.com/s/5a53908k4528394/happy-clap-ukulele.mp3?dl=0", 
+  musicUrl: "https://files.catbox.moe/tip6f5.mp3", 
 
   // Detalhes do Evento
-  date: "23 de Janeiro",
+  date: "25 de Janeiro",
   time: "17:00h",
   locationName: "Av. Fernando Spínola, 192",
   locationAddress: "Centro - Vitória da Conquista",
