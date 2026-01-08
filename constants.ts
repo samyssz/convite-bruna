@@ -7,13 +7,13 @@
 
 export const INVITATION_DATA = {
   // Informações da Aniversariante
-  name: "Bruna Ivanovichi",
+  name: "Bruna",
   age: "10 Aninhos",
   
   // Foto da aniversariante (Use uma URL válida ou um caminho de arquivo)
   // Sugestão: Use https://i.imgur.com/SEU_ID.jpg ou coloque na pasta public
   // Otimização: Se usar Unsplash, ajuste o parametro 'w' para 400 ou 500 para carregar mais rápido
-  photoUrl: "https://i.postimg.cc/dQ791bzy/Whats-App-Image-2026-01-06-at-11-14-54.jpg",
+  photoUrl: "https://i.postimg.cc/G2LMCXdg/Untitled.jpg",
 
   // Textos
   heroTitle: "Convite Especial",
