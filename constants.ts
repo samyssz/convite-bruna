@@ -22,7 +22,7 @@ export const INVITATION_DATA = {
 
   // Música de fundo (URL de um arquivo mp3)
   // Deixe vazio ("") se não quiser música
-  musicUrl: "https://files.catbox.moe/tip6f5.mp3", 
+  musicUrl: "https://files.catbox.moe/e731wh.mp3", 
 
   // Detalhes do Evento
   date: "25 de Janeiro",
